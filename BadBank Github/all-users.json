@@ -1,0 +1,21 @@
+{
+    "users": [{
+            "name": "Isabelle",
+            "email": "isabe.hunt321@gmail.com",
+            "password": "Password321",
+            "balance": 100
+        },
+        {
+            "name": "Mickey Mouse",
+            "email": "Mickey.Mouse@gmail.com",
+            "password": "Clubhouse321",
+            "balance": 100
+        },
+        {
+            "name": "Abel",
+            "email": "abel@mit.edu",
+            "password": "unknown",
+            "balance": 100
+        }
+    ]
+}
